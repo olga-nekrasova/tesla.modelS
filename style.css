@@ -46,7 +46,7 @@ body {
 
 .tesla_title {
     text-align: center;
-    background-image: url("/assets/img/Tesla logo + car.png");
+    background-image: url("./assets/img/Tesla logo + car.png");
     height: 594px;
 
 }
@@ -261,7 +261,7 @@ body {
 
 .future_salon {
     width: 100%;
-    background: url("/assets/img/2013-tesla-model-s-cockpit.png");
+    background: url("./assets/img/2013-tesla-model-s-cockpit.png");
     height: 815px;
 }
 
